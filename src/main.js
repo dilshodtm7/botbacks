@@ -3,7 +3,7 @@ import { routes } from './routes/routes.js';
 import cors from 'cors';
 import { Telegraf, Markup } from 'telegraf';
 
-const token = '7847275792:AAFRLVHZSesu0IYDqDYYz5NwZyTNYFxyiV4';
+const token = '7719888933:AAF8x3DkclgJOn-KpUag-hG_YdpK7afrAwQ';
 const bot = new Telegraf(token);
 
 const app = express();
