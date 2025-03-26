@@ -8,7 +8,7 @@ const bot = new Telegraf(token);
 
 const app = express();
 // const webAppUrl = 'https://aviashopbot.vercel.app';
-const webAppUrl = 'https://aviashopbot-prod.vercel.app/';
+const webAppUrl = 'https://aviashopbot-prod.vercel.app';
 
 
 const casinoUrl = 'https://1wzyuh.com/casino/list?open=register&p=gmsj';
